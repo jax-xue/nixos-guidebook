@@ -14,8 +14,8 @@ cd "$(dirname "$0")/.."
 OUT="build/Nix与NixOS中文手册.pdf"
 mkdir -p build
 
-# 按章节号排序拼接全部 markdown（README 开头，其后 45 章，最后附录 A-D）
-FILES=$(ls README.md chapters/ch*.md appendix/appendix-*.md | sort -t- -k1,1)
+# 按阅读顺序拼接：README 开头，其后 46 章（文件名零填充，glob 顺序即章节顺序），最后附录 A-D
+FILES=$(echo README.md chapters/ch*.md appendix/appendix-*.md)
 
 pandoc $FILES \
   -o "$OUT" \

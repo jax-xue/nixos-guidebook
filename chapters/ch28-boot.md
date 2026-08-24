@@ -180,3 +180,8 @@ $ sudo nixos-enter                           # NixOS live 自带：直接进入�
 - 手册 «Boot» 章节：https://nixos.org/manual/nixos/stable/#sec-boot
 - 源码导览：nixos/modules/system/boot/stage-1-init.sh、stage-2-init.sh（短小，值得通读）
 - 第 29 章（systemd 之后的世界）承接本章第五幕。
+
+
+---
+
+[← 上一章：switch-to-configuration：系统切换的内部](ch27-switch.md) · [↑ 返回目录](../README.md) · [→ 下一章：systemd 集成](ch29-systemd.md)

@@ -147,3 +147,8 @@ install(源代码, 编译器, 依赖库, 构建脚本, 构建参数) → 安装�
 - Eelco Dolstra 博士论文《The Purely Functional Software Deployment Model》（2006），第 1 章对部署问题的经典分类：https://edolstra.github.io/pubs/phd-thesis.pdf
 - nix.dev 官方教程 «Why does Nix exist?»：https://nix.dev
 - Nix 参考手册的 Overview 章节：https://nixos.org/manual/nix/stable/
+
+
+---
+
+[↑ 返回目录](../README.md) · [→ 下一章：Nix 的诞生——Dolstra 论文与乌得勒支](ch02-birth-of-nix.md)

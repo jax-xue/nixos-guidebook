@@ -451,3 +451,8 @@ meta = {
 - NixOS 选项检索·binfmt 模拟执行：https://search.nixos.org/options?query=boot.binfmt.emulatedSystems
 - nixpkgs 源码·pkgsCross 入口：https://github.com/NixOS/nixpkgs/blob/master/pkgs/top-level/cross-packages.nix
 - musl libc 官网（静态链接设计背景）：https://musl.libc.org
+
+
+---
+
+[← 上一章：override 与 overlay：定制一切](ch39-overrides.md) · [↑ 返回目录](../README.md) · [→ 下一章：测试与持续集成](ch41-ci.md)

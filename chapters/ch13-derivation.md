@@ -235,3 +235,8 @@ derivation {
 - Nix Pills 第 2-5 章（徒手玩 derivation 的经典教材）：https://nixos.org/guides/nix-pills/
 - `nix derivation show` 手册：https://nixos.org/manual/nix/stable/command/new-cli/nix3-derivation-show
 - 下一章（第 14 章）深入 `.drv` 产物的家：/nix/store。
+
+
+---
+
+[← 上一章：惯用法：写出地道的 Nix 代码](ch12-idioms.md) · [↑ 返回目录](../README.md) · [→ 下一章：存储模型：/nix/store 的设计](ch14-store.md)

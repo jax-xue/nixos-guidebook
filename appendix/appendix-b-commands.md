@@ -186,3 +186,8 @@ $ nix build nixpkgs#hello   # 缓存命中即自动补齐
 - 新 CLI 全索引：https://nixos.org/manual/nix/stable/command/new-cli/nix
 - NixOS 管理：https://nixos.org/manual/nixos/stable/#sec-changing-config
 - 第 46 章的排错场景大量使用本附录命令。
+
+
+---
+
+[← 上一章：附录 A：Nix 语言速查表](appendix-a-cheatsheet.md) · [↑ 返回目录](../README.md) · [→ 下一章：附录 C：中英术语对照表](appendix-c-glossary.md)

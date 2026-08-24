@@ -82,3 +82,8 @@ Nix 的独创性在于把这些分散的思想（内容寻址、纯函数、惰�
 - 《Imposing a Memory Management Discipline on Software Deployment》：https://edolstra.github.io/pubs/ 
 - NixOS 官方历史叙述：https://wiki.nixos.org/wiki/History_of_Nix_and_NixOS
 - 第 3 章（生态发展史 2003-2026）、第 22 章（NixOS 的起源）承接本章内容。
+
+
+---
+
+[← 上一章：软件部署的问题——为什么需要 Nix](ch01-why-nix.md) · [↑ 返回目录](../README.md) · [→ 下一章：Nix 生态发展史（2003–2026）](ch03-history.md)

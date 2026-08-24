@@ -102,3 +102,8 @@
 - 各版本发布说明（版本特性的一手来源）：https://nixos.org/manual/nixos/stable/release-notes
 - NixOS 基金会：https://nixos.org/community/governance/
 - 第 22 章（NixOS 起源与发行版史）承接本章的发行版部分。
+
+
+---
+
+[← 上一章：Nix 的诞生——Dolstra 论文与乌得勒支](ch02-birth-of-nix.md) · [↑ 返回目录](../README.md) · [→ 下一章：声明式与纯函数式包管理思想](ch04-philosophy.md)

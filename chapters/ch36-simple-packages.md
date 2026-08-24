@@ -249,3 +249,8 @@ pkgs.symlinkJoin {                    # ⑤ 聚合成一个「包」（第 35.2.
 - 源文件：pkgs/by-name/he/hello/package.nix、pkgs/by-name/fi/figlet/package.nix
 - nixpkgs «Submit changes> 贡献规范：https://github.com/NixOS/nixpkgs/blob/master/pkgs/README.md
 - 第 37 章（中等实例：fzf 与 ripgrep）。
+
+
+---
+
+[← 上一章：打包方式总览：全部 builder 分类详解](ch35-builders-overview.md) · [↑ 返回目录](../README.md) · [→ 下一章：中等包实例精讲（逐行注释）](ch37-medium-packages.md)

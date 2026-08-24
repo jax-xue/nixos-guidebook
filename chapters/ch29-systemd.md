@@ -526,3 +526,8 @@ $ systemd-analyze critical-chain multi-user.target   # 到达目标的串行关�
 - NixOS 选项检索（搜 `systemd.services`）：<https://search.nixos.org/options>
 - NixOS Wiki·systemd 与加固：<https://wiki.nixos.org/wiki/Systemd_Services>、<https://wiki.nixos.org/wiki/Hardening_NixOS_Services>
 - systemd-analyze 安全评分：<https://www.freedesktop.org/software/systemd/man/latest/systemd-analyze.html>
+
+
+---
+
+[← 上一章：启动流程：从 bootloader 到登录提示符](ch28-boot.md) · [↑ 返回目录](../README.md) · [→ 下一章：用户、状态与"无状态"哲学](ch30-state.md)

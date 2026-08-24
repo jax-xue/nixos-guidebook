@@ -245,3 +245,8 @@ stdenv.mkDerivation (finalAttrs: {
 - 手册 «Derivation> 函数参考（每个参数的权威说明）：https://nixos.org/manual/nixpkgs/unstable/#sec-using-stdenv
 - 源码：pkgs/stdenv/generic/make-derivation.nix
 - 下一章（第 35 章）把视野扩展到全部打包方式。
+
+
+---
+
+[← 上一章：stdenv：标准构建环境](ch33-stdenv.md) · [↑ 返回目录](../README.md) · [→ 下一章：打包方式总览：全部 builder 分类详解](ch35-builders-overview.md)

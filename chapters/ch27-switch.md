@@ -144,3 +144,8 @@ specialisation.debug.configuration = {
 - 源码：nixos/modules/system/activation/switch-to-configuration.pl（diff 决策的一手实现）
 - 手册 «Changing Configuration»：https://nixos.org/manual/nixos/stable/#sec-changing-config
 - 第 31 章（部署工具如何包装 switch）、第 28 章（新代如何被引导加载）。
+
+
+---
+
+[← 上一章：激活机制：activation scripts](ch26-activation.md) · [↑ 返回目录](../README.md) · [→ 下一章：启动流程：从 bootloader 到登录提示符](ch28-boot.md)

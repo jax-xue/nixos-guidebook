@@ -168,3 +168,8 @@ NIX_DEBUG = 6;             # setup.sh 打印每个变量与决策（写在 env �
 - nixpkgs 手册 «stdenv» 章节（phase 与变量的权威文档）：https://nixos.org/manual/nixpkgs/unstable/#part-stdenv
 - 源码：pkgs/stdenv/generic/setup.sh（千行 bash，通读一遍胜过十篇教程）
 - 第 34 章把视角换成 mkDerivation 的参数表。
+
+
+---
+
+[← 上一章：nixpkgs 仓库全景与组织思想](ch32-nixpkgs-overview.md) · [↑ 返回目录](../README.md) · [→ 下一章：mkDerivation 逐行剖析](ch34-mkderivation.md)

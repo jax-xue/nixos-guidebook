@@ -236,3 +236,8 @@ firefox/
 - 源文件：pkgs/development/python-modules/requests/default.nix（完整真实）
 - pkgs/os-specific/linux/kernel/（generic.nix 值得通读）、pkgs/applications/networking/browsers/firefox/
 - 手册 «Python«、«Linux Kernel>：https://nixos.org/manual/nixpkgs/unstable/#sec-language-python
+
+
+---
+
+[← 上一章：中等包实例精讲（逐行注释）](ch37-medium-packages.md) · [↑ 返回目录](../README.md) · [→ 下一章：override 与 overlay：定制一切](ch39-overrides.md)

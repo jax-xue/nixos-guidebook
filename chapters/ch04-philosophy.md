@@ -143,3 +143,8 @@ nixpkgs 描述了超过十万个包，但 `nix build nixpkgs#hello` 秒级完成
 - Dolstra 论文第 2、3 章（模型的形式化）：https://edolstra.github.io/pubs/phd-thesis.pdf
 - 第 11 章（惰性求值）、第 13 章（派生）将分别展开本章的技术伏笔。
 - 函数式编程的一般入门（如《Learn You a Haskell》前几章）可作辅助读物，但并非必需。
+
+
+---
+
+[← 上一章：Nix 生态发展史（2003–2026）](ch03-history.md) · [↑ 返回目录](../README.md) · [→ 下一章：核心概念地图：一图看懂 Nix 世界](ch05-concept-map.md)

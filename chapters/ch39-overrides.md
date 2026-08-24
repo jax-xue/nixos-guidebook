@@ -599,3 +599,8 @@ final: prev: {
 - nixpkgs 手册·Python 一节（packageOverrides 语义）：https://nixos.org/manual/nixpkgs/unstable/#sec-language-python
 - nixpkgs 源码·override 家族实现：https://github.com/NixOS/nixpkgs/blob/master/lib/customization.nix
 - NixOS Wiki·Overriding：https://wiki.nixos.org/wiki/Overriding
+
+
+---
+
+[← 上一章：复杂包实例精讲（逐行注释）](ch38-complex-packages.md) · [↑ 返回目录](../README.md) · [→ 下一章：交叉编译](ch40-cross.md)

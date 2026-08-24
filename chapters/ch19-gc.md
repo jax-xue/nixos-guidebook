@@ -398,3 +398,8 @@ error: cannot fetch input 'github:NixOS/nixpkgs/…': … not valid
 - Nix 手册：垃圾回收器与根的官方说明：<https://nixos.org/manual/nix/stable/>
 - NixOS 选项检索：nix.gc、keep-outputs 等：<https://search.nixos.org/options?query=nix.gc>
 - NixOS Wiki：Storage optimization：<https://wiki.nixos.org/wiki/Storage_optimization>
+
+
+---
+
+[← 上一章：Profile、channel 与 generation](ch18-profiles.md) · [↑ 返回目录](../README.md) · [→ 下一章：二进制缓存与 substituter 生态](ch20-binary-cache.md)

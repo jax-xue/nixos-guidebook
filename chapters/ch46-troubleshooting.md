@@ -682,3 +682,8 @@ time.hardwareClockInLocalTime = true;
 - nix.dev：调试构建教程 —— https://nix.dev/tutorials/debugging-builds
 - systemd 手册：journalctl —— https://www.freedesktop.org/software/systemd/man/journalctl.html
 - nixos-anywhere 相关救援场景 —— https://github.com/nix-community/nixos-anywhere
+
+
+---
+
+[← 上一章：用户环境与 home-manager](ch45-home-manager.md) · [↑ 返回目录](../README.md) · [→ 下一章：附录 A：Nix 语言速查表](../appendix/appendix-a-cheatsheet.md)

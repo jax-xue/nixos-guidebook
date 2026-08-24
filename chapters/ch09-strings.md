@@ -451,3 +451,8 @@ generators 家族还有 `toYAML`、`toJSON`、`toTOML`、`toKeyValue` 等。它�
 - nixpkgs 手册 · lib.strings：https://nixos.org/manual/nixpkgs/stable/#sec-functions-library-string
 - nixpkgs 手册 · trivial builders（writeText 家族）：https://nixos.org/manual/nixpkgs/stable/#sec-trivial-builders
 - nix.dev · Nix 语言教程：https://nix.dev/tutorials/nix-language
+
+
+---
+
+[← 上一章：let、with 与作用域规则](ch08-scope.md) · [↑ 返回目录](../README.md) · [→ 下一章：属性集：Nix 世界的中心数据结构](ch10-attrsets.md)

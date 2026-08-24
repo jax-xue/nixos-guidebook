@@ -485,3 +485,8 @@ $ nix build .#foo --override-input nixpkgs github:NixOS/nixpkgs/pull/12345/head
 - nix-direnv —— https://github.com/nix-community/nix-direnv
 - pre-commit-hooks.nix —— https://github.com/cachix/pre-commit-hooks.nix
 - cachix 使用文档 —— https://docs.cachix.org/
+
+
+---
+
+[← 上一章：编写自己的 NixOS 模块](ch43-module-walkthrough.md) · [↑ 返回目录](../README.md) · [→ 下一章：用户环境与 home-manager](ch45-home-manager.md)

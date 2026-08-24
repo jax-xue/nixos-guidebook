@@ -214,3 +214,8 @@ Vim 插件（`vimPlugins.nvim-treesitter`）与 Emacs 包（`emacsPackages.melpa
 - 手册 «Build Helpers»（每类 helper 的权威文档）：https://nixos.org/manual/nixpkgs/unstable/#sec-build-helpers
 - 源码地图：pkgs/build-support/（本表全部实现的所在地，浏览目录收获巨大）
 - 第 36 章起进入真实源码逐行精讲。
+
+
+---
+
+[← 上一章：mkDerivation 逐行剖析](ch34-mkderivation.md) · [↑ 返回目录](../README.md) · [→ 下一章：简单包实例精讲（逐行注释）](ch36-simple-packages.md)

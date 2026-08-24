@@ -755,3 +755,8 @@ nixos-config/
 - NixOS Wiki·中文相关（Fonts、Input Method）：<https://wiki.nixos.org/wiki/Fonts>、<https://wiki.nixos.org/wiki/Input_Methods_for_Chinese>
 - NixOS Wiki·PipeWire：<https://wiki.nixos.org/wiki/PipeWire>
 - nixpkgs 源码中的模块定义（选项的最终出处）：<https://github.com/NixOS/nixpkgs/tree/master/nixos/modules>
+
+
+---
+
+[← 上一章：从包到操作系统：NixOS 的构建哲学](ch23-from-packages-to-os.md) · [↑ 返回目录](../README.md) · [→ 下一章：模块系统深度剖析](ch25-module-system.md)

@@ -206,3 +206,8 @@ modules = [ { _module.args = { inherit inputs; }; } ];
 - 「NixOS: A Purely Functional Linux Distribution」论文第 4 节（模块系统原始设计）
 - nixpkgs 模块系统源码导览：lib/modules.nix（merge 的真正实现，值得一读）
 - 手册 «Writing NixOS Modules»：https://nixos.org/manual/nixpkgs/unstable/#sec-writing-modules
+
+
+---
+
+[← 上一章：configuration.nix 全面精讲](ch24-configuration-nix.md) · [↑ 返回目录](../README.md) · [→ 下一章：激活机制：activation scripts](ch26-activation.md)

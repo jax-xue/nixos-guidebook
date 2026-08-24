@@ -388,3 +388,8 @@ homepage = "https://www.gnu.org/software/hello/";
 - nix.dev 语言教程（官方推荐的互动式入门）：https://nix.dev/tutorials/nix-language
 - RFC 166（nixfmt-rfc-style 风格依据）：https://github.com/NixOS/rfcs/blob/master/rfcs/0166-nix-formatting.md
 - 第 7 章（函数）、第 8 章（作用域）、第 10 章（属性集）承接本章。
+
+
+---
+
+[← 上一章：核心概念地图：一图看懂 Nix 世界](ch05-concept-map.md) · [↑ 返回目录](../README.md) · [→ 下一章：函数：lambda、多参数与柯里化](ch07-functions.md)

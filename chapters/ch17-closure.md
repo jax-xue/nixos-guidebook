@@ -398,3 +398,8 @@ pkgs.dockerTools.buildImage {
 - `nix copy` 手册：<https://nixos.org/manual/nix/stable/command-ref/nix-copy>
 - `nix-copy-closure` 手册：<https://nixos.org/manual/nix/stable/command-ref/nix-copy-closure>
 - patchelf 与 RUNPATH（NixOS Wiki）：<https://wiki.nixos.org/wiki/Patchelf>
+
+
+---
+
+[← 上一章：构建过程：沙箱、钩子与复现](ch16-build.md) · [↑ 返回目录](../README.md) · [→ 下一章：Profile、channel 与 generation](ch18-profiles.md)

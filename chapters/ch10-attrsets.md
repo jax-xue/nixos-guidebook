@@ -428,3 +428,8 @@ $ nix eval --json --file select-packages.nix --apply 'builtins.attrNames'
 - Nix 手册 · 内建函数（attrNames、mapAttrs 等）：https://nix.dev/manual/nix/stable/language/builtins
 - nixpkgs 手册 · lib.attrsets：https://nixos.org/manual/nixpkgs/stable/#sec-functions-library-attrsets
 - nix.dev · Nix 语言教程：https://nix.dev/tutorials/nix-language
+
+
+---
+
+[← 上一章：字符串：深入字符串上下文与模板](ch09-strings.md) · [↑ 返回目录](../README.md) · [→ 下一章：惰性求值：Nix 的执行模型](ch11-laziness.md)

@@ -165,3 +165,8 @@ $ comm -12 /tmp/h /tmp/r | wc -l
 
 - Nix 手册 «Store» 一章（后端清单与配置）：https://nixos.org/manual/nix/stable/store/
 - 第 17 章（闭包）、第 19 章（GC）、第 20 章（缓存）是本章的三条延伸线。
+
+
+---
+
+[← 上一章：派生（Derivation）：构建的原子](ch13-derivation.md) · [↑ 返回目录](../README.md) · [→ 下一章：哈希、固定输出与内容寻址](ch15-hashes.md)

@@ -290,3 +290,8 @@ $ home-manager switch              # 或 nixos-rebuild switch（模块模式）
 - home-manager 仓库 —— https://github.com/nix-community/home-manager ：源码即文档，`modules/programs/` 下每个程序一个模块，是学习模块写法（第 25、43 章）的绝佳范本；
 - NixOS Wiki: Home Manager —— https://wiki.nixos.org/wiki/Home_Manager ：社区维护的安装方式对比与常见问题；
 - nix.dev「Declarative and reproducible environments」 —— https://nix.dev/ ：官方教程中对用户环境声明式的定位，可与本章交叉印证。
+
+
+---
+
+[← 上一章：Flake 应用开发模板](ch44-flake-templates.md) · [↑ 返回目录](../README.md) · [→ 下一章：常见问题与排错手册](ch46-troubleshooting.md)

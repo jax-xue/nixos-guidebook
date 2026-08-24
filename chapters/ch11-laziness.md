@@ -399,3 +399,8 @@ error: 配置里没有 server.port
 - Nix 手册 · 内建函数（seq、deepSeq、trace、tryEval）：https://nix.dev/manual/nix/stable/language/builtins
 - nixpkgs 手册 · lib.fixed-points（fix 家族）：https://nixos.org/manual/nixpkgs/stable/#sec-functions-library-fixed-points
 - nix.dev · Nix 语言教程：https://nix.dev/tutorials/nix-language
+
+
+---
+
+[← 上一章：属性集：Nix 世界的中心数据结构](ch10-attrsets.md) · [↑ 返回目录](../README.md) · [→ 下一章：惯用法：写出地道的 Nix 代码](ch12-idioms.md)

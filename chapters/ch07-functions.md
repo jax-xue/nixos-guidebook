@@ -281,3 +281,8 @@ builtins.functionArgs ({ a, b ? 1 }: a + b)
 - nix.dev «Functions» 教程：https://nix.dev/tutorials/nix-language
 - finalAttrs 迁移讨论与指南：nixpkgs 文档及 `lib.trivial.fix` 源码注释（pkgs/stdenv/generic 或 lib/trivial.nix）
 - 第 8 章（作用域与 inherit）、第 12 章（惯用法）承接本章。
+
+
+---
+
+[← 上一章：Nix 语言基础：值、类型与表达式](ch06-language-basics.md) · [↑ 返回目录](../README.md) · [→ 下一章：let、with 与作用域规则](ch08-scope.md)

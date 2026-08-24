@@ -237,3 +237,8 @@ in
 - 官方手册 «Constructs / Let / With»：https://nixos.org/manual/nix/stable/language/constructs
 - nixpkgs 贡献者指南（风格与禁项）：https://github.com/NixOS/nixpkgs/blob/master/CONTRIBUTING.md
 - 第 10 章（属性集深讲）、第 12 章（惯用法总汇）承接本章。
+
+
+---
+
+[← 上一章：函数：lambda、多参数与柯里化](ch07-functions.md) · [↑ 返回目录](../README.md) · [→ 下一章：字符串：深入字符串上下文与模板](ch09-strings.md)

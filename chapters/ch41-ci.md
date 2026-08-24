@@ -460,3 +460,8 @@ $ nixpkgs-review wip               # 动真格:把受影响的包全部本地构
 - nix flake check 命令参考：https://nixos.org/manual/nix/stable/command-ref/new-cli/nix3-flake-check
 - Cachix 文档：https://docs.cachix.org
 - 可复现性看板：https://r13y.com
+
+
+---
+
+[← 上一章：交叉编译](ch40-cross.md) · [↑ 返回目录](../README.md) · [→ 下一章：从零打包一个软件：完整实战](ch42-package-walkthrough.md)

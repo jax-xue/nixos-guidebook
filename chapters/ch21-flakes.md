@@ -504,3 +504,8 @@ in
 - nix.dev 概念页：Flakes <https://nix.dev/concepts/flakes>
 - Zero to Nix（Determinate Systems 的入门教程）：<https://zero-to-nix.com>
 - 官方 flake 模板库：<https://github.com/NixOS/templates>
+
+
+---
+
+[← 上一章：二进制缓存与 substituter 生态](ch20-binary-cache.md) · [↑ 返回目录](../README.md) · [→ 下一章：NixOS 的起源与发展](ch22-nixos-history.md)

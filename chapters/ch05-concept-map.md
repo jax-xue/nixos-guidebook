@@ -112,3 +112,8 @@
 
 - nix.dev 的概念图解（官方入门材料）：https://nix.dev/concepts
 - 后续各章开头的「本章导读」都会回扣这张地图的位置。
+
+
+---
+
+[← 上一章：声明式与纯函数式包管理思想](ch04-philosophy.md) · [↑ 返回目录](../README.md) · [→ 下一章：Nix 语言基础：值、类型与表达式](ch06-language-basics.md)

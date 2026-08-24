@@ -559,3 +559,8 @@ in
 - nixpkgs 源码·官方模块目录：https://github.com/NixOS/nixpkgs/tree/master/nixos/modules
 - nixpkgs 源码·模块系统库（mkRenamedOptionModule 等实现）：https://github.com/NixOS/nixpkgs/blob/master/lib/modules.nix
 - RFC 42·settings 配置惯例：https://github.com/NixOS/rfcs/blob/master/rfcs/0042-config-option.md
+
+
+---
+
+[← 上一章：从零打包一个软件：完整实战](ch42-package-walkthrough.md) · [↑ 返回目录](../README.md) · [→ 下一章：Flake 应用开发模板](ch44-flake-templates.md)

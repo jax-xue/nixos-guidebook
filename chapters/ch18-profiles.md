@@ -398,3 +398,8 @@ flake 的输入写在 `flake.nix` 里，例如 `nixpkgs.url = "github:NixOS/nixp
 - NixOS Wiki：Nix channels：<https://wiki.nixos.org/wiki/Nix_channels>
 - nix.dev：Flakes 概念：<https://nix.dev/concepts/flakes>
 - Nix 手册：环境变量（NIX_PATH 等）：<https://nixos.org/manual/nix/stable/command-ref/env-vars>
+
+
+---
+
+[← 上一章：闭包：依赖的完整图谱](ch17-closure.md) · [↑ 返回目录](../README.md) · [→ 下一章：垃圾回收：gcroots 与安全删除](ch19-gc.md)

@@ -508,3 +508,8 @@ NixOS 把「期望状态」推进到了**全系统闭包**：求值配置的那�
 - colmena 手册 —— https://colmena.cli.rs/unstable/
 - NixOps（历史项目）—— https://github.com/NixOS/nixops
 - NixOS Wiki：部署工具综述 —— https://wiki.nixos.org/wiki/Deployment
+
+
+---
+
+[← 上一章：用户、状态与"无状态"哲学](ch30-state.md) · [↑ 返回目录](../README.md) · [→ 下一章：nixpkgs 仓库全景与组织思想](ch32-nixpkgs-overview.md)

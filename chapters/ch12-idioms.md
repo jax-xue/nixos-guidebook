@@ -550,3 +550,8 @@ $ nix run nixpkgs#statix -- check .          # 应无 lint：反模式清零
 - deadnix：https://github.com/nix-community/deadnix
 - statix：https://github.com/nerdypepper/statix
 - alejandra：https://github.com/kamadorueda/alejandra
+
+
+---
+
+[← 上一章：惰性求值：Nix 的执行模型](ch11-laziness.md) · [↑ 返回目录](../README.md) · [→ 下一章：派生（Derivation）：构建的原子](ch13-derivation.md)

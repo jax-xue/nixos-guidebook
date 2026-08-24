@@ -101,3 +101,8 @@ system = build(configuration)        # 一台机器 = 配置的纯函数
 - NixOS 历史页：https://wiki.nixos.org/wiki/History_of_Nix_and_NixOS
 - 各版本发布说明：https://nixos.org/manual/nixos/stable/release-notes
 - 下一章（第 23 章）拆解「整机即派生」的内部构造。
+
+
+---
+
+[← 上一章：Flakes：新一代 Nix 工作流](ch21-flakes.md) · [↑ 返回目录](../README.md) · [→ 下一章：从包到操作系统：NixOS 的构建哲学](ch23-from-packages-to-os.md)

@@ -153,3 +153,8 @@ $ nixos-rebuild switch --flake .#myhost
 - NixOS 手册 «Changing Configuration»（rebuild 的官方叙述）：https://nixos.org/manual/nixos/stable/#sec-changing-config
 - 源码导览：nixos/modules/system/activation/（activate 脚本）、nixos/lib/make-system-toplevel.nix
 - 第 25 章（模块系统如何求值出 config）、第 26/27 章（激活与切换）是本章的微观续集。
+
+
+---
+
+[← 上一章：NixOS 的起源与发展](ch22-nixos-history.md) · [↑ 返回目录](../README.md) · [→ 下一章：configuration.nix 全面精讲](ch24-configuration-nix.md)

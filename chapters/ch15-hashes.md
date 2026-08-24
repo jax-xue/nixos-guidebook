@@ -190,3 +190,8 @@ error: hash mismatch in fixed-output derivation '/nix/store/...-source':
 - nixpkgs 手册 «Fetchers» 章节：https://nixos.org/manual/nixpkgs/unstable/#chap-pkgs-fetchers
 - Nix 手册 «Advanced Attributes»（outputHash 三件套）：https://nixos.org/manual/nix/stable/language/advanced-attributes
 - 第 36-38 章所有真实包例子的 `src` 都用本章 fetcher；第 42 章实战完整演练假哈希循环。
+
+
+---
+
+[← 上一章：存储模型：/nix/store 的设计](ch14-store.md) · [↑ 返回目录](../README.md) · [→ 下一章：构建过程：沙箱、钩子与复现](ch16-build.md)

@@ -398,3 +398,8 @@ these 1 paths will be fetched (0.05 MiB):
 - Cachix 官方文档：<https://docs.cachix.org/>
 - Nix 手册：`nix key`（缓存签名密钥）：<https://nixos.org/manual/nix/stable/command-ref/nix-key>
 - nix.dev：闭包与缓存相关教程：<https://nix.dev/>
+
+
+---
+
+[← 上一章：垃圾回收：gcroots 与安全删除](ch19-gc.md) · [↑ 返回目录](../README.md) · [→ 下一章：Flakes：新一代 Nix 工作流](ch21-flakes.md)

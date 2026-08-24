@@ -287,3 +287,8 @@ lib.groupBy' / foldAttrs            # 聚合
 
 - 官方语言手册（本表的权威来源）：https://nixos.org/manual/nix/stable/language/
 - `nix repl` 里直接实验：`builtins.attrNames builtins` 可列出当前版本全部内建函数。
+
+
+---
+
+[← 上一章：常见问题与排错手册](../chapters/ch46-troubleshooting.md) · [↑ 返回目录](../README.md) · [→ 下一章：附录 B：常用命令参考](appendix-b-commands.md)

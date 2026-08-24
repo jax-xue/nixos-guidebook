@@ -499,3 +499,8 @@ nix.settings = {
 - 可复现构建总纲（`SOURCE_DATE_EPOCH`、diffoscope 等规范的出处）：<https://reproducible-builds.org>
 - r13y：nixpkgs 复现性看板 <https://r13y.com>
 - nix.dev 教程站（打包与调试实践）：<https://nix.dev>
+
+
+---
+
+[← 上一章：哈希、固定输出与内容寻址](ch15-hashes.md) · [↑ 返回目录](../README.md) · [→ 下一章：闭包：依赖的完整图谱](ch17-closure.md)

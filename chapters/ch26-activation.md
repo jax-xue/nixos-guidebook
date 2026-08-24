@@ -163,3 +163,8 @@ ELF ... （execve 到 /nix/store/...-sudo/bin/sudo）
 - 源码：nixos/modules/system/activation/（activate.sh、activation-script.nix——短小精悍，强烈推荐通读）
 - 手册 «Changing Configuration»：https://nixos.org/manual/nixos/stable/#sec-changing-config
 - 第 27 章（switch-to-configuration）承接：激活之后如何切换系统代。
+
+
+---
+
+[← 上一章：模块系统深度剖析](ch25-module-system.md) · [↑ 返回目录](../README.md) · [→ 下一章：switch-to-configuration：系统切换的内部](ch27-switch.md)

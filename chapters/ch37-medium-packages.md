@@ -266,3 +266,8 @@ rustPlatform.buildRustPackage (finalAttrs: {
 - 源文件：pkgs/by-name/fz/fzf/package.nix、pkgs/by-name/ri/ripgrep/package.nix
 - 手册 «Go«、«Rust»：https://nixos.org/manual/nixpkgs/unstable/#sec-language-go
 - fzf/ripgrep 上游文档（--generate 的来历、PCRE2 feature 的含义）
+
+
+---
+
+[← 上一章：简单包实例精讲（逐行注释）](ch36-simple-packages.md) · [↑ 返回目录](../README.md) · [→ 下一章：复杂包实例精讲（逐行注释）](ch38-complex-packages.md)

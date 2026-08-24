@@ -449,3 +449,8 @@ e4f5a6b fix: 修正 alice 的密码哈希
 - impermanence 项目：<https://github.com/nix-community/impermanence>
 - sops-nix：<https://github.com/Mic92/sops-nix>；agenix：<https://github.com/ryantm/agenix>
 - restic 文档：<https://restic.readthedocs.io/>；BorgBackup：<https://www.borgbackup.org/>
+
+
+---
+
+[← 上一章：systemd 集成](ch29-systemd.md) · [↑ 返回目录](../README.md) · [→ 下一章：部署工具生态](ch31-deploy.md)

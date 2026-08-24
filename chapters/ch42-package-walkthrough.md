@@ -477,3 +477,8 @@ $ nix run github:Mic92/nixpkgs-review -- pr 123456
 - `pkgs/by-name/README.md`（随仓库更新的权威细则）—— https://github.com/NixOS/nixpkgs/blob/master/pkgs/by-name/README.md
 - Nix 手册：固定输出派生 —— https://nixos.org/manual/nix/stable/language/derivations.html
 - nixpkgs-review —— https://github.com/Mic92/nixpkgs-review
+
+
+---
+
+[← 上一章：测试与持续集成](ch41-ci.md) · [↑ 返回目录](../README.md) · [→ 下一章：编写自己的 NixOS 模块](ch43-module-walkthrough.md)

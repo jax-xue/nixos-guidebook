@@ -173,3 +173,8 @@ master（每日千次合并）
 - nixpkgs 手册（贡献与结构的一手文档）：https://nixos.org/manual/nixpkgs/unstable/
 - RFC 140（by-name）：https://github.com/NixOS/rfcs/blob/master/rfcs/0140-simple-package-paths.md
 - 第 33 章（stdenv）与第 34 章（mkDerivation）进入构建设施内部。
+
+
+---
+
+[← 上一章：部署工具生态](ch31-deploy.md) · [↑ 返回目录](../README.md) · [→ 下一章：stdenv：标准构建环境](ch33-stdenv.md)

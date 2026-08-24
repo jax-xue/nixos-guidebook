@@ -231,9 +231,9 @@ lib.groupBy' / foldAttrs            # 聚合
 
 | Phase（执行序） | 默认行为 | 常用覆盖/参数 |
 |---|---|---|
-| unpack | 解压 $src | `postUnpack`、`sourceRoot` |
+| unpack | 解压 `$src` | `postUnpack`、`sourceRoot` |
 | patch | 应用 patches | `postPatch`、`substituteInPlace --replace-fail` |
-| configure | ./configure --prefix=$out（hook 识别 cmake/meson） | `configureFlags`、`preConfigure` |
+| configure | ./configure --prefix=`$out`（hook 识别 cmake/meson） | `configureFlags`、`preConfigure` |
 | build | make -jN | `buildFlags`、`dontBuild` |
 | check | make check（默认关） | `doCheck`、`checkFlags` |
 | install | make install | `installFlags`、`postInstall` |

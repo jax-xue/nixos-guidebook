@@ -51,7 +51,7 @@
 ## D.5 社区与求助
 
 - **Discourse 论坛**（https://discourse.nixos.org）：最重要的问题沉淀地，搜到老帖常常直接解决你的问题。
-- **Matrix/Discord**：官方实时频道，入口见 https://nixos.org/community（以官网为准）。
+- **Matrix/Discord**：官方实时频道，入口见[官网 Community 页面](https://nixos.org/community)。
 - **GitHub Discussions/Issues**：nixpkgs 的 bug 与特性讨论。
 - **NixCon 演讲**（YouTube 搜索 NixCon）：年度大会录像，深度机制的讲座宝库。
 

@@ -105,4 +105,4 @@
 
 ---
 
-[← 上一章：附录 C：中英术语对照表](appendix-c-glossary.md) · [↑ 返回目录](../README.md)
+[← 上一章：附录 C：中英术语对照表](appendix-c-glossary.md) · [↑ 返回目录](../README.md) · [→ 下一章：附录 E：环境准备——从零到一台可动手的 NixOS](appendix-e-setup.md)
